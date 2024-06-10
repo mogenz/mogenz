@@ -15,6 +15,8 @@ Read more about me on my LinkedIn!
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="60" height="60"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" width="60" height="60"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/ocaml/ocaml-original.svg" alt="OCaml" width="60" height="60"/>
+  <img src="https://github.com/devicons/devicon/blob/v2.16.0/icons/go/go-original.svg" alt="GO" width="60" height="60"/>
+
 </p>
 
 ## 🛠️ Tools
